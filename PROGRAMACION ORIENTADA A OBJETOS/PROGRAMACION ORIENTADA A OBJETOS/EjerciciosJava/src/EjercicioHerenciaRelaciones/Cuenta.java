@@ -2,33 +2,33 @@ package EjercicioHerenciaRelaciones;
 
 public  abstract class  Cuenta {
 
-    private Double saldo;
-    private Cuenta Cuenta;
+    private double saldo;
 
-    public Cuenta(Double saldo, EjercicioHerenciaRelaciones.Cuenta cuenta) {
+
+    public Cuenta(double saldo) {
         this.saldo = saldo;
-        Cuenta = cuenta;
+
     }
 
-    public Double getSaldo() {
+    public double getSaldo() {
         return saldo;
     }
 
-    public void setSaldo(Double saldo) {
+    public void setSaldo(double  saldo) {
+
         this.saldo = saldo;
     }
 
-    public double depositar (double valorADepositar){
-        saldo=saldo+ valorADepositar;
-        return saldo;
-    }
+    public abstract double  depositar (double valorADepositar);
 
     public   abstract void extraerEfectivo (double valorAExtraer);
 
 
 
     public double consultarSaldo (){
-        return getSaldo();
+
+        return getSaldo()
+                ;
     }
 
 }
