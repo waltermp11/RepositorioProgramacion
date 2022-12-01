@@ -10,8 +10,15 @@ public class CuentaCorriente extends Cuenta {
     }
 
     @Override
-    public double depositar(double valorADepositar) {
-        return 0;
+    public void depositar(double valorADepositar) {
+        if (valorADepositar<=600000){
+            setSaldo(consultarSaldo()+valorADepositar);
+            System.out.println("Su saldo actual es : "+consultarSaldo());
+        }
+        else {
+            System.out.println("No se puede depositar esa cantidad de dinero en su cuenta  = "+valorADepositar);
+        }
+
     }
 
     public void extraerEfectivo(double valorAExtraer) {

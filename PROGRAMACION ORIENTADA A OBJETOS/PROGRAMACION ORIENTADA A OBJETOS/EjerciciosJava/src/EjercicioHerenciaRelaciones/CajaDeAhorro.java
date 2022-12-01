@@ -31,7 +31,7 @@ public class CajaDeAhorro extends Cuenta {
     }
 
     @Override
-    public double depositar(double valorADepositar) {
+    public void depositar(double valorADepositar) {
             if(valorADepositar >=60000){
                 System.out.println("Su cuenta no puede almacenar esa cantidad de deposito.");
             }
@@ -40,8 +40,5 @@ public class CajaDeAhorro extends Cuenta {
                 System.out.println("Su saldo actual es = "+consultarSaldo());
             }
 
-
-
-        return valorADepositar;
     }
 }

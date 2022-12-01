@@ -19,7 +19,7 @@ public  abstract class  Cuenta {
         this.saldo = saldo;
     }
 
-    public abstract double  depositar (double valorADepositar);
+    public abstract void  depositar (double valorADepositar);
 
     public   abstract void extraerEfectivo (double valorAExtraer);
 

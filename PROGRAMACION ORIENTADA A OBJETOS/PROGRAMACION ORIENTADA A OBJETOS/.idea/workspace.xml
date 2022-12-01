@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f6d0bd1-347d-4367-9150-004241d44a5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/CajaDeAhorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/CajaDeAhorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/CuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosJava/src/EjercicioHerenciaRelaciones/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO.docx" beforeDir="false" afterPath="$PROJECT_DIR$/POO.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IH2stirCLfsU1XO6qG5XJUvNGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/walte/Desktop/RepositorioDH/PROGRAMACION ORIENTADA A OBJETOS/PROGRAMACION ORIENTADA A OBJETOS/EjerciciosJava"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6d0bd1-347d-4367-9150-004241d44a5a" name="Changes" comment="" />
+      <created>1669824397397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669824397397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
